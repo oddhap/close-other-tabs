@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+      "message": "Lukk andre faner",
+      "description": "Name of the extension."
+    },
+  
+    "extensionDescription": {
+      "message": "Legg til ein kontekstmeny for faner som lukker alle faner utanom den valde.",
+      "description": "Description of the extension."
+    },
+  
+    "contextItemTitleCloseOtherTabs": {
+        "message": "Lukk andre faner",
+        "description": "Title of the context menu item that closes other tabs."
+    }
+}
